@@ -1,0 +1,14 @@
+.card {
+    background-color: aliceblue;
+    height: 520px;
+    width: 620px;
+    border-radius: 40px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-content {
+    text-align: center;
+    font-size: 40px;
+}

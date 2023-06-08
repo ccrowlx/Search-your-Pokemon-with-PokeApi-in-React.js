@@ -1,0 +1,31 @@
+
+.search-bar-wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 50px;
+    width: 620px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    overflow: hidden;
+  }
+  
+  .icon-search {
+    position: absolute;
+    height: 34px;
+    width: 34px;
+    margin-left: 22px;
+  }
+  
+  .input-search {
+    height: 100%;
+    width: 100%;
+    font-size: 22px;
+    color: black;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    text-align: center;
+    font-family: 'archivo-black';
+  }

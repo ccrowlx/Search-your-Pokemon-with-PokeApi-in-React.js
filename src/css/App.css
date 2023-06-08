@@ -1,0 +1,7 @@
+body {
+  background-image: linear-gradient(to bottom, rgb(240, 8, 8), rgb(203, 136, 13));
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+

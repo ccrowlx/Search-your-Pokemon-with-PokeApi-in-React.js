@@ -1,0 +1,12 @@
+
+.containerTitle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 220px;
+  }
+  
+  .imageLogo {
+    height: 180px; /* Ajusta el tamaño según tus necesidades */
+    width: auto; /* Ajusta el tamaño según tus necesidades */
+  }
