@@ -1,12 +1,34 @@
-
 .containerTitle {
-    display: flex;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 220px;
+}
+
+.imageLogo {
+  height: 180px; /* Ajusta el tamaño según tus necesidades */
+  width: auto; /* Ajusta el tamaño según tus necesidades */
+}
+
+@media screen and (max-width: 480px) {
+  
+  .containerTitle {
     justify-content: center;
     align-items: center;
-    height: 220px;
+    width: 103vh;
   }
-  
   .imageLogo {
-    height: 180px; /* Ajusta el tamaño según tus necesidades */
-    width: auto; /* Ajusta el tamaño según tus necesidades */
+    height: 150px; /* Ajusta el tamaño según tus necesidades */
   }
+}
+
+@media screen and (max-width: 844px) {
+  .containerTitle {
+    justify-content: center;
+    align-items: center;
+    width: 103vh;
+  }
+  .imageLogo {
+    height: 150px; /* Ajusta el tamaño según tus necesidades */
+  }
+}

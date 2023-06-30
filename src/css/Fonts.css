@@ -2,3 +2,8 @@
     font-family: 'archivo-black';
     src: url('../assets/fonts/ArchivoBlack-Regular.ttf') format('truetype');
   }
+
+@font-face{
+   font-family: 'pokemon-gb';
+   src: url('../assets/fonts/PokemonGb-RAeo.ttf') format('truetype');
+}
